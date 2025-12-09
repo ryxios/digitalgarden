@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/BFS/Vorbereitungen/BKU 2/BKU 2 - LS 1.05 - Esssituationen bedürfnisgerecht gestalten/BKU2 GB LS 1.05 Präsentation 1/","title":"BKU2 1.05 – Esssituationen bedürfnisgerecht gestalten","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/BFS/Vorbereitungen/BKU 2/BKU 2 - LS 1.05 - Esssituationen bedürfnisgerecht gestalten/BKU2 GB LS 1.05 Präsentation 1/","title":"BKU2 1.05 – Esssituationen bedürfnisgerecht gestalten"}
 ---
 
 <!-- _class: lead -->
